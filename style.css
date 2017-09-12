@@ -1,0 +1,27 @@
+h1 {
+	color: #07aafc;
+	text-align: center;
+}
+i {
+	font-size: 2px;
+}
+p {
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #1eeadf;
+
+}
